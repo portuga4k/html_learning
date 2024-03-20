@@ -1,3 +1,8 @@
+html{
+   src:"\Users\franc\OneDrive\Ambiente de Trabalho\MDIB\html_learning\html_leatrning.html";
+}
+
+
 h1{
     color: black;
     font-style: italic;
@@ -11,3 +16,17 @@ p{
     background-color: black;
     color: red;
 }
+
+span {
+    background-color: rgb(188, 11, 11);
+    color:darkmagenta;
+    padding: 35px, 20px, 35px, 20px;
+        
+  }
+
+
+  #boxtabela {
+    padding: 15px;
+    border: red 32px;
+    margin: 30px;
+  }
